@@ -1,15 +1,17 @@
-<h1>Obrigado por baixar nosso jogo! Aqui está o tutorial de como executá-lo:</h1>
+<h1>Obrigado por baixar o Avatar - The last speedrunner! :joystick: Aqui está o tutorial de como executá-lo:</h1>
 
 <h2>--> Feito e desenvolvido por:</h2> 
-  
-  <br/> - Násser Rafael França Kilesse
-  [![Github Badge](https://img.shields.io/badge/-NásserRafael-black?style=flat-square&logo=Github&logoColor=white&link=https://www.github.com/nasserrafaelfk/)](https://www.github.com/nasserrafaelfk/) | 
-  [![Linkedin Badge](https://img.shields.io/badge/-NásserRafael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nasserrafaelfk/)](https://www.linkedin.com/in/nasserrafaelfk/)
-  
+
   <br/> - Ronaldo Mendonça Zica
   [![Github Badge](https://img.shields.io/badge/-RonaldoZica-black?style=flat-square&logo=Github&logoColor=white&link=https://www.github.com/ronaldozica/)](https://www.github.com/ronaldozica/) |
   [![Linkedin Badge](https://img.shields.io/badge/-RonaldoZica-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ronaldo-zica/)](https://www.linkedin.com/in/ronaldo-zica/)
   
+<h2>CONTROLES:</h2>
+<p>:star: Barra de espaço: PULO</p>
+<p>:star: W: TIRO</p>
+<p>:star: P: PAUSE</p>
+<p>:star: R: RESTART (somente quando perde)</p>
+<p>:star: ESC: FECHAR</p>
 
 <h4>1) Para realizar a instalação das bibliotecas necessárias, devemos acessar o Terminal do Linux.
 Para isso, pressione <kbd>ctrl</kbd> + <kbd>alt</kbd> + <kbd>t</kbd> ou procure por Terminal no Menu Linux.</h4>
@@ -46,12 +48,7 @@ pelo comando:</h4>
 <p><code>make run</code></p>
 <p>Pronto, você já está jogando!</p>
 
-<h2>Itens adicionais implementados:</h2>
-<p>:star: Jogador andando</p>
-<p>:star: Inimigos andando</p>
-<p>:star: Outros objetos ou cenário animados</p>
-<p>:star: Fundo lindão e com movimento/animação</p>
-<p>:star: Inimigos diferentes</p>
-<p>:star: Fases "curadas"</p>
-<p>:star: Vidas</p>
-<p>:star: Telas</p>
+<h2>OBSERVAÇÕES IMPORTANTES:</h2>
+<p>:star: Esse jogo não possui nenhum fim lucrativo, foi feito puramente para aprofundar meus conhecimentos em OpenGl.</p>
+<p>:star: Não possuo autoria dos sprites utilizados para o Aang, Zuko e dos objetos. Entretanto, o cenário de fundo foi feito por mim.</p>
+
